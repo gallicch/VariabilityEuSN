@@ -8,7 +8,7 @@ Gallicchio, C. (2023). Diversifying Non-dissipative Reservoir Computing Dynamics
 Currently, two files are provided
 
 * `euler.py`, which contains the main classes definition, including the EulerReservoirCell, the EuSN, and all the recurrent layers and architectures used in the experiments (including the variants tested in the paper, and the standard Echo State Network for comparison).
-* 'experiments.py', which contains the code to run for the experiments on the time-series classificatiion tasks reported in the paper.
+* `experiments.py`, which contains the code to run for the experiments on the time-series classificatiion tasks reported in the paper.
 
 ## Datasets
 
